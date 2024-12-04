@@ -1,0 +1,6 @@
+10011/Induction/12/12/Kitchen
+10011/Table/12/12/Furniture
+1973/Mobile/25000/100/electronics
+19374/Laptop/450/44/electronics
+1265/Chinese/245/23/Food
+1265/South Indian/10/500/Food
